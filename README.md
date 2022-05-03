@@ -5,7 +5,7 @@
 
 - 🏤 I am currently studying Electrical Engineering at [IF Goiano Campus Trindade](https://www.instagram.com/campustrindade/)
 
-- 💬 Ask me about **Java**
+- 💬 I created this page to store my materials and contents of the semester, over time I will create new projects and experiences, as well as learn new programming languages.
 
 <br>
 
