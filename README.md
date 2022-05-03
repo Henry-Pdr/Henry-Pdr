@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="left">Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Henryy</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Henry-Pdr&color=red" alt="Profile views" /> </p>
 
-<!--
-**Henry-Pdr/Henry-Pdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎯 Junior Developer, newbie in the field 
 
-Here are some ideas to get you started:
+- 🏤 I am currently studying Electrical Engineering at [IF Goiano Campus Trindade](https://www.instagram.com/campustrindade/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Java**
+
+<br>
+
+## 🛠 &nbsp;Tech Stack
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Henry-Pdr&show_icons=true&theme=omni" alt="Henry-Pdr's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Pdr&layout=compact&theme=omni" alt="Henry-Pdr's most languages"/>
+</p>
+
+<br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+</a>
+<a href="https://instagram.com/_henryqye" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Henryy-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
